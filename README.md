@@ -1,3 +1,5 @@
+**T20 World Cup 2024 Match Analysis**
+
 **Analysis**
 
 ![image](https://github.com/Ansari-Afzal/T20-World-Cup-2024-Match-Analysis/assets/111781863/c92c85fa-f4c7-453e-8358-5cb038eec7c1)
@@ -31,4 +33,5 @@ The comparison of average run rate per over shows that India had a higher averag
 The USA experienced significant fluctuations in their run rate, with peaks in the 10th and 15th overs, but also several low-scoring overs, indicating inconsistency. India’s run rate was relatively more stable, with a notable increase towards the end of their innings. This stability in India’s run rate, especially in the death overs, allowed them to maintain pressure and chase the target successfully. The graph highlights India’s ability to keep a more consistent scoring pace, while the USA’s variable run rate reflects periods of struggle to maintain momentum.
 
 **Summary**
+
 In conclusion, India’s strategy of consistent scoring, effective partnerships, and a balanced bowling attack proved successful against the USA’s inconsistent batting performance and less impactful bowling. So, this is how you can analyze a cricket match and tell the story behind it as a Data Analyst/Scientist.
